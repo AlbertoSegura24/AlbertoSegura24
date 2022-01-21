@@ -1,7 +1,7 @@
 ### Hi!, I'm Alberto, a physics engineering student at IICO UASLP :mexico:
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSegura24&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSegura24&theme=dark)(https://github.com/AlbertoSegura24/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSegura24&theme=dark)
 <!--
 **AlbertoSegura24/AlbertoSegura24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
