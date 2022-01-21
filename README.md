@@ -4,4 +4,4 @@
 
 
 <a href="https://instagram.com/gael_alberto2001"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<a href="https://twitter.com/Alberto_Segura5"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
