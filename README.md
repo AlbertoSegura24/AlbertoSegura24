@@ -1,4 +1,4 @@
-### Hi!, I'm Alberto, a physics engineering student at IICO UASLP :mexico:
+### Hi!, I'm Alberto, an undergraduate Physics Engineering student at IICO UASLP :mexico:
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSegura24&show_icons=true&theme=dark)
 
