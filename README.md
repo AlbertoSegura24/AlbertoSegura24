@@ -1,4 +1,4 @@
-### Hi!, I'm Alberto, an undergraduate Physics Engineering student at IICO UASLP :mexico:
+### Hi!, I'm Alberto, a Physics Engineering graduated :mexico:
 :computer:Working with:
 
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><a/>
