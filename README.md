@@ -4,8 +4,6 @@
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/><a/>
-  
-Part of the research team lead by [Dr. L.F. Lastras Martinez](https://github.com/lflm-spectra-labs-iico)
 
   
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoSegura24&show_icons=true&theme=dark)
